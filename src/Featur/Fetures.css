@@ -1,6 +1,5 @@
 .features{
-    width: 100%;
-    max-width: 1024px;
+    
     display: flex;
     margin: 50px 30px 40px 250px;
     justify-content: space-between;

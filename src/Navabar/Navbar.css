@@ -5,8 +5,7 @@
     display: flex;
 }
 .navContainer{
-    width: 100%;
-    max-width: 1024px;
+
     color: azure;
     justify-content: space-between;
     display: flex;

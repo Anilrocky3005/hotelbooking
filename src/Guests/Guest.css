@@ -1,10 +1,9 @@
 .guest{
-    width: 100px;
-    max-width: 1024px;
+
     display: flex;
     justify-content: space-between;
     gap:20px;
-    margin: 20px 2px 5px 210px;
+    margin: 20px 40px 5px 180px;
 
 } 
 .guestlist{

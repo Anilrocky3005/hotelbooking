@@ -15,7 +15,7 @@ const Home = () => {
     <Features />
 
     <div className='propertiesreact'>
-        <h2>Search property type</h2>
+        <h2>Search property types</h2>
 
 
 
