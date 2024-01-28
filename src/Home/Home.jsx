@@ -2,7 +2,8 @@ import React from 'react'
 import "./Home.css"
 import Navbar from '../Navabar/Navbar'
 import Header from '../Header.jsx/Header'
-import Features from '../Features/features'
+import Features from '../Featur/Features.jsx'
+
 import Properties from '../Properties/Properties'
 import Guest from '../Guests/Guest'
 import Mail from '../Maillist/Mail'
