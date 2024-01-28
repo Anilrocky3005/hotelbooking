@@ -1,0 +1,24 @@
+.mail{
+
+    margin-top: 80px;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+
+}
+.mailtitle{
+    color: aliceblue;
+    font-weight: 10px;
+}
+.mailinput{
+    width: 100%;
+}
+.input{
+    width: 30%;
+}
+.mailbtn{
+    border: 1px sold black;
+    border-radius: 1px;
+    background-color: grey;
+    margin-left: 10px;
+}
